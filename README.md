@@ -34,10 +34,6 @@ The environment is based on [Unity ML-agents](https://github.com/Unity-Technolog
 
 Note: The project environment provided by Udacity is similar to, but not identical to the [Banana Collector](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#banana-collector) environment on the Unity ML-Agents GitHub page.
 
-> The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source Unity plugin that enables games and simulations to serve as environments for training intelligent agents. Agents can be trained using reinforcement learning, imitation learning, neuroevolution, or other machine learning methods through a simple-to-use Python API. 
-
-
-
 ## Getting started
 
 ### Installation requirements
@@ -58,9 +54,7 @@ Note: The project environment provided by Udacity is similar to, but not identic
 
 
 - Finally, unzip the environment archive in the 'project's environment' directory and eventually adjust thr path to the UnityEnvironment in the code.
-
-
-    
+  
 ### Train a agent
     
 Execute the provided notebook within this Nanodegree Udacity Online Workspace for "project #1  Navigation" (or build your own local environment and make necessary adjustements for the path to the UnityEnvironment in the code )
